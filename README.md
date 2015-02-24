@@ -8,7 +8,7 @@ Non code homework are listed belowe.
 ***
 w2: unpredictable something 
 
-It was snowing heavily the other day. I took a video of the crazy flying snow. youtube link here.
+It was snowing heavily the other day. I took a video of the crazy flying snow. youtube link: http://youtu.be/n_br7cOI9io
 
 w3: wave 
 
