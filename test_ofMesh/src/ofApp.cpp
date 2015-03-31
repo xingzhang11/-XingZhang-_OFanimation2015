@@ -1,3 +1,6 @@
+//I want to explore OF with image, so I follow a tutorial from OF website to go through this code
+//the idea is to understand how it works first, then I want to add attraction and repulsion to it 
+
 #include "ofApp.h"
 
 //--------------------------------------------------------------
